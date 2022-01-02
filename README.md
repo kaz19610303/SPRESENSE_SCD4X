@@ -30,20 +30,20 @@ SMD互換性と小さなフットプリントによって、コスト効率お�
 ■農業・グリーン住宅  
 ■産業用  
   
-センサー仕様  
+**センサー仕様**  
 |名称|精度|指定測定範囲|低消費電力測定機能|
 |:----|:----|:----|:----|
 |SCD40|±(50 ppm +読み取り値の5%)|400 ppm ～ 2'000 ppm|なし|
 |SCD41|±(40 ppm +読み取り値の5%)|400 ppm ～ 5'000 ppm|あり|
-|SCD42|±75 ppm	400 ppm ～ 1'000 ppm|なし|
+|SCD42|±75 ppm|400 ppm ～ 1'000 ppm|なし|
   
-CPUボード    
+**CPUボード**    
 [Sony SPRESENSE](https://developer.sony.com/ja/develop/spresense/)  
   
-プロラム開発環境    
+**プロラム開発環境**    
 [Spresense Arduino](https://developer.sony.com/develop/spresense/docs/arduino_set_up_ja.html)  
   
-参考資料  
+**参考資料**  
 [Datasheet CO2 Sensors SCD40 and SCD41] 
 (https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/9.5_CO2/Sensirion_CO2_Sensors_SCD40_SCD41_Datasheet.pdf)  
   
