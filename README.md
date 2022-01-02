@@ -1,6 +1,8 @@
 # SPRESENSE CO2 Sensor Addon Board SCD4X
 CO2,temperature and humidity sensores bord for SPRESENSE.
 
+![Spresense用CO2センサー　アドオン ボード](https://baseec-img-mng.akamaized.net/images/item/origin/be7b9078bcbb4df65fd20b5e694585e0.png?imformat=generic "Spresense用CO2センサー　アドオン ボード")
+
 **CO2センサー 「SCD4x」**  
 サイズの壁を打ち破るCO2センシング  
 SCD4xは、他に類をみないコストパフォーマンス比率を実現したセンシリオンの次世代小型CO2センサーです。  
