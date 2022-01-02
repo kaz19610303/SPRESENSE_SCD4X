@@ -1,4 +1,4 @@
-# SPRESENSE_CO2 SCD4X
+# SPRESENSE CO2 Sensor Addon Board SCD4X
 CO2,temperature and humidity sensores bord for SPRESENSE.
 
 **CO2センサー 「SCD4x」**  
