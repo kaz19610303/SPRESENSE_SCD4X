@@ -44,14 +44,13 @@ SMD互換性と小さなフットプリントによって、コスト効率お�
 [Spresense Arduino](https://developer.sony.com/develop/spresense/docs/arduino_set_up_ja.html)  
   
 **参考資料**  
-[Datasheet CO2 Sensors SCD40 and SCD41] 
-(https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/9.5_CO2/Sensirion_CO2_Sensors_SCD40_SCD41_Datasheet.pdf)  
+[Datasheet CO2 Sensors SCD40 and SCD41](https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/9.5_CO2/Sensirion_CO2_Sensors_SCD40_SCD41_Datasheet.pdf)  
   
-[Handling Instructions CO2 Sensor SCD4x]
-(https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/9.5_CO2/Sensirion_CO2_Sensors_SCD4x_handling_instructions.pdf)  
+[Handling Instructions CO2 Sensor SCD4x](https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/9.5_CO2/Sensirion_CO2_Sensors_SCD4x_handling_instructions.pdf)  
   
-[Design-In Guide CO2 Sensor SCD4x]
-(https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/9.5_CO2/Sensirion_CO2_Sensors_SCD4x_design-in_guide.pdf)
+[Design-In Guide CO2 Sensor SCD4x](https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/9.5_CO2/Sensirion_CO2_Sensors_SCD4x_design-in_guide.pdf)
   
-[Sensirion I2C SCD4x Arduino Library]
-(https://github.com/Sensirion/arduino-i2c-scd4x)
+[Sensirion I2C SCD4x Arduino Library](https://github.com/Sensirion/arduino-i2c-scd4x)
+
+[感染のリスクを最小限に抑える重要な指標としての CO2](https://www.sensirion.com/jp/environmental-sensors/indoor-air-quality/correct-ventilation-helps-to-reduce-the-risk-of-virus-transmission/)
+
